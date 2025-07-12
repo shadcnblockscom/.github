@@ -1,2 +1,2 @@
-# Welcome to Shadcn UI
+# Welcome to the world of Shadcn
 
